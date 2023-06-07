@@ -1,0 +1,13 @@
+1. git init untuk melakukan perintah git
+2. git status untuk melihat file yang akan di commit
+3. git add untuk menambahkan file yang akan di commit dengan perintah "git add [nama_file]/ git add . -> untuk menambahkan semua file yang sudah dibuat atau diubah"
+4. git commit untuk mengcommit atau mengsave hasil program yang sudah dibuat dengan perintah 'git commit -m "[komentar/judul]"'
+5. git diff untuk melihat hasil yang sudah dirubah sebelum di commit
+6. git log untuk melihat hasil commit yang sebelumnya diubah dan diperbaharui
+7. git restore untuk mengubah file seperti semula yang dimana terdapat beberapa perubahan sebelum di commit dengan perintah "git restore [nama_file]"
+8. git restore -S "nama_file" untuk mengubah file yang sudah masuk staging area (berwarna hijau)
+9. git reset untuk mereset file yang sudah masuk staging area (berwarna hijau) dan menjadi codingan awal yang sebelumnya diperbaharui
+10. git reset --hard [nama_log] untuk merubah file commit yang kita gunakan sebelumnya dan menghapus hasil yang sudah diperbaharui
+11. git checkout -b [nama branch yang ingin dibuat] untuk membuat branch baru yang berfungsi biasanya membuat fitur
+12. git checkout [nama branch] untuk berpindah branch ke master maupun ke branch lainnya dengan branch yang sudah dibuat
+13. 
