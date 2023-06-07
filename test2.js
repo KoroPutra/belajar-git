@@ -1,1 +1,2 @@
-console.log('test 2');
+const deduct = (a, b) => a-b;
+console.log('Ini file test');
